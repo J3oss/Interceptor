@@ -1,0 +1,2 @@
+interceptor.Score
+interceptor.GameFrame
